@@ -1,6 +1,6 @@
-# bf-feature-selector
+# feature-selector
 
-Brute-force Feature Selection with Scikit-Learn and Optuna.
+Simple Feature Selection with Scikit-Learn and Optuna.
 
 # Instructions
 
